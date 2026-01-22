@@ -1,25 +1,22 @@
-<!-- ========================= -->
-<!-- 🌌 ALEXANDER — DARK PURPLE FULLSTACK -->
-<!-- ========================= -->
-
 <div align="center">
 
-<!-- Header gradient (dark purple) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,100:6f2bd6&height=210&section=header&text=Alexander%20—%20Fullstack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="header" />
 
-<!-- Typing animation -->
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=700&color=b99cff&center=true&vCenter=true&width=760&lines=Fullstack+Developer+%2F+UI+%26+UX+%2F+AI+Explorer;Design-minded+Engineer;Building+calm,+powerful+interfaces" alt="typing" />
+
+### 🚀 [Check out my Live Portfolio](https://aleks2005vk.github.io/github-portfolio/)
+> **Disclaimer:** This portfolio is currently a "work-in-progress" prototype built on the fly! I'm still refining the visual language and interactions. 🛠️
 
 </div>
 
 ---
 
 # 💫 About Me
-I build thoughtful interfaces and robust systems — with a designer’s heart and a developer’s rigor.
+Hi! I'm Alexander, a Full-stack Developer student based in **Georgia 🇬🇪**. I build thoughtful interfaces and robust systems with a designer’s heart and a developer’s rigor. 
 
-**🌱 I’m currently learning:** Backend fundamentals, system design, and advanced frontend animations  
-**💬 Ask me about:** React · Tailwind CSS · UI design · AI-assisted development  
+**🌱 I’m currently learning:** Backend fundamentals, system design, and advanced GSAP animations  
+**💬 Ask me about:** React · Tailwind CSS · UI/UX Design · AI-assisted development  
 **⚡ Fun fact:** *I enjoy the moment before creation — when ideas are still pure and full of possibility.*
 
 ---
@@ -50,28 +47,27 @@ I build thoughtful interfaces and robust systems — with a designer’s heart a
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1e1e2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ---
 
-## 📂 Featured Projects (short)
-- **Modern Web Platform** — UI-first approach, component-driven, responsive. `ADD_PROJECT_LINK_1`  
-- **AI Experimentation** — prompt-driven utilities & tooling. `ADD_PROJECT_LINK_2`  
+## 📂 Featured Projects
+* **Kansei** — Anime exploration platform featuring emotional UI and glassmorphism.
+* **ULTRA Marketplace** — High-performance e-commerce store with rapid-fire filtering.
+* **Cheap Gasoline** — Real-time fuel price mapping with Tesseract OCR integration.
 
-> Подробности каждого проекта — в соответствующих репозиториях (с README).
+> Check the individual repositories for deeper technical dives and READMEs.
 
 ---
 
-## 📊 GitHub & Live
+## 📊 GitHub Status
 <p align="center">
   <img src="https://raw.githubusercontent.com/aleks2005vk/aleks2005vk/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 📫 Contact
+## 📫 Let's Collaborate
 - **Email:** aleksvk22@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/aleksander-kotorashvili-9a300b342/  
-- **Portfolio:** `ADD_PORTFOLIO_HERE` (подставь свой, если есть)
-
-
+- **LinkedIn:** [Aleksander Kotorashvili](https://www.linkedin.com/in/aleksander-kotorashvili-9a300b342/)  
+- **Portfolio:** [aleks2005vk.github.io/github-portfolio/](https://aleks2005vk.github.io/github-portfolio/)
