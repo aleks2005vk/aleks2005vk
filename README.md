@@ -50,4 +50,28 @@ I build thoughtful interfaces and robust systems — with a designer’s heart a
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-1e1e2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
-![MongoDB](https://img.sh)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+---
+
+## 📂 Featured Projects (short)
+- **Modern Web Platform** — UI-first approach, component-driven, responsive. `ADD_PROJECT_LINK_1`  
+- **AI Experimentation** — prompt-driven utilities & tooling. `ADD_PROJECT_LINK_2`  
+
+> Подробности каждого проекта — в соответствующих репозиториях (с README).
+
+---
+
+## 📊 GitHub & Live
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aleks2005vk/aleks2005vk/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Contact
+- **Email:** aleksvk22@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/aleksander-kotorashvili-9a300b342/  
+- **Portfolio:** `ADD_PORTFOLIO_HERE` (подставь свой, если есть)
+
+
